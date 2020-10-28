@@ -1,0 +1,19 @@
+{
+  "name": "test_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okabe-takayuki/test_actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okabe-takayuki/test_actions/issues"
+  },
+  "homepage": "https://github.com/okabe-takayuki/test_actions#readme"
+}
